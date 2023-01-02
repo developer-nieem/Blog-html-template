@@ -1,0 +1,126 @@
+@media screen and (max-width: 992px) {
+  .sign-up-heading h2{
+    font-size: 22px !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+.header-section-part-2 {
+    height: 150px !important;
+}
+.header-section-part-2-bg{
+    width: 732px !important;
+    height: 384px !important;
+
+}
+    .header-section-part-2-info {
+    padding: 57px 0px 25px 0px !important;
+}
+.header-section-part-2-info h4{
+  
+    padding-left: 12px !important;
+}
+.header-section-part-2-info h2{
+    
+    padding-left: 12px !important;
+}
+.coustom-input{
+  margin-top: 12px !important;
+}
+
+/* Header Part Section 2 CSS End Here */
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 576px) {
+.header-section-part-2-full {
+    height: 520px !important;
+}
+.header-section-part-2 {
+    height: 150px !important;
+}
+.header-section-part-2-bg{
+    width: 543px !important;
+    height: 238px !important;
+
+}
+    .header-section-part-2-info {
+    padding: 57px 0px 25px 0px !important;
+}
+.header-section-part-2-info h4{
+  font-size: 16px !important;
+    padding-left: 12px !important;
+}
+.header-section-part-2-info h2{
+    font-size: 22px !important;
+    padding-left: 12px !important;
+}
+.coustom-input{
+  margin-top: 12px !important;
+}
+
+/* Header Part Section 2 CSS End Here */
+
+.footer-section h3{
+    margin-top: 20px;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 414px) {
+  .header-section-part-2-full {
+    height: 470px !important;
+}
+.header-section-part-2 {
+    height: 150px !important;
+}
+.header-section-part-2-bg{
+    width: 380px !important;
+    height: 100% !important;
+
+}
+    .header-section-part-2-info {
+    padding: 57px 0px 25px 0px !important;
+}
+.header-section-part-2-info h4{
+  font-size: 16px !important;
+    padding-left: 12px !important;
+}
+.header-section-part-2-info h2{
+    font-size: 22px !important;
+    padding-left: 12px !important;
+}
+.coustom-input{
+  margin-top: 12px !important;
+}
+/* Header Part Section 2 CSS End Here */
+.gc-imges img{
+  width: 355px !important;
+}
+/* Gallery Section Css End Here  */
+.post-content h5{
+  padding-top: 12px;
+}
+
+.footer-section h3{
+    margin-top: 20px;
+}
+.c-imges img{
+  width: 380px;
+}
+  
+}
+
+
+
+
+

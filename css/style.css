@@ -1,0 +1,390 @@
+*{margin:0px; padding:0px;
+scroll-behavior: smooth;
+}
+@font-face {
+    font-family:AvenirNextRoundedReg;
+    src: url('../font/avenir/AvenirNextRoundedProRegular.TTF');
+}
+body {
+    overflow-x: hidden;
+    background: #F9F9FB;
+    font-family:hind;
+}
+/* Reset Css End Here */
+.dropdown-coutom{
+    left: -32px;
+    padding-left: 22px;
+    border: none;
+}
+
+.social-icon a{
+ display: inline-block;
+ padding: 10px 15px;
+ font-size: 22px;
+ color: #fff;
+}
+.search-box{
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 8px;
+}
+.search-model-icon {
+    font-size: 18px;
+}
+
+/* Hseader Part CSS End Here */
+.header-section-part-2-full{
+    height: 676px;
+}
+.header-section-part-2 {
+    height: 250px;
+}
+
+.header-section-part-2-bg{
+    background: url('../img/header-bg.png');
+    background-size: cover;
+
+}
+.header-section-part-2-info{
+    padding: 200px 0px 200px 50px;
+}
+.header-section-part-2-info h2{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.sign-up-heading h2{
+    font-size: 28px;
+    padding-top: 8px;
+}
+/* Header Part Section 2 CSS End Here */
+.pintarest-part {
+    background: url('../img/pintarestbg.jpg');
+    background-size: cover;
+    min-height: 300px;
+}
+.pintarest-part{
+    text-align: right;
+}
+.pintarest-part a{
+    display: inline-block;
+    height: 45px ;
+    width: 45px;
+    background: #CC2127;
+    text-align: center;
+    color: #fff;
+    padding-top: 8px;
+}
+/* Pentarest Section Css End Here */
+.travaling-section-content{
+    margin-top: -30px;
+    padding-bottom: 30px;
+}
+.travaling-section-content .image-top{
+    display: inline-block;
+    height: 45px ;
+    width: 45px;
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding-top: 7px;
+}
+.travaling-section-content h5{
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.travaling-section-content h2{
+    text-transform: uppercase;
+}
+.travaling-section-content span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.travaling-section-content p{
+    padding-top: 22px;
+    color: #464646;
+}
+
+.post-comment span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.post-share-icon a{
+    margin:0 9px ;
+    color: #000;
+}
+
+/* Travelling Section CSS End Here */
+
+.gallery-section img{
+    width: 328px;
+    height: 224px;
+}
+.full-img img{
+height: 448px;
+}
+/* Gallery Section Css End Here  */
+.fashion-adventure-section{
+    margin-top: -30px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+.fashion-adventure-section-content{
+
+}
+.fashion-adventure-section-content .image-top{
+    display: inline-block;
+    height: 45px ;
+    width: 45px;
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding-top: 7px;
+}
+.fashion-adventure-section-content h5{
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.fashion-adventure-section-content h2{
+    text-transform: uppercase;
+}
+.fashion-adventure-section-content span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.fashion-adventure-section-content p{
+    padding-top: 22px;
+    color: #464646;
+}
+.post-comment span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.post-share-icon a{
+    margin:0 9px ;
+    color: #000;
+}
+/* Fashion & Adventure  Section CSS End Here */
+.author-about-section{
+    margin: 25px 0px;
+    padding: 60px 80px;
+}
+.icon-author{
+    margin-top: -80px;
+}
+.icon-author i{
+    padding-top: 7px;
+    height: 40px ;
+    width: 40px;
+    background: #fff;
+    color: #000;
+    font-size: 22px;
+}
+.author-about-section p{
+    padding-top: 60px;
+    text-transform: uppercase;
+    word-spacing: 2px;
+}
+.author-about-section h5{
+    color: #a0a2a4;
+}
+/* Author About Section CSS End */
+
+.travilling-post-section{
+    margin-top: -30px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+
+.travilling-post-section-content .image-top{
+    display: inline-block;
+    height: 45px ;
+    width: 45px;
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding-top: 7px;
+}
+.travilling-post-section-content h5{
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.travilling-post-section-content h2{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.travilling-post-section-content span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.travilling-post-section-content p{
+    padding-top: 22px;
+    color: #464646;
+}
+.post-comment span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.post-share-icon a{
+    margin:0 9px ;
+    color: #000;
+}
+/* Travilling Post Section CSS End Here */
+.audio-c iframe{
+    width: 100% !important;
+}
+
+.lifestyle-post-section{
+    margin-top: 20px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+.image-top{
+    margin-top: -47px;
+}
+ .image-top i{
+    display: inline-block;
+    height: 45px ;
+    width: 45px;
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding-top: 7px;
+}
+.lifestyle-post-section-content h5{
+    padding-top: 30px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.lifestyle-post-section-content h2{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.lifestyle-post-section-content span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.lifestyle-post-section-content p{
+    padding-top: 22px;
+    color: #464646;
+}
+.post-comment span{
+    padding-right: 9px;
+    padding-left: 9px;
+    color: #999999;
+}
+.post-share-icon a{
+    margin:0 9px ;
+    color: #000;
+}
+/* Lifestyle Post Section  CSS End Here */
+.website-domain-section{
+    margin: 35px 0px;
+    padding: 60px 80px;
+}
+.icon-author{
+    margin-top: -80px;
+}
+.icon-author i{
+    padding-top: 7px;
+    height: 40px ;
+    width: 40px;
+    background: #fff;
+    color: #000;
+    font-size: 22px;
+}
+.website-domain-section h4{
+   text-transform: uppercase;
+    padding-top: 50px;
+}
+.website-domain-section p{
+    text-transform: uppercase;
+    word-spacing: 2px;
+}
+/* Website Domain Section CSS End Here */
+
+/* Sidebar Css Start */
+
+/* Catagorie css Start */
+.catagorie-section h3{
+    font-size: 22px;
+}
+.catagore-list ul{
+   border-radius: 0px; 
+}
+.catagore-list ul li{
+    border-right: 0px;
+    border-left: 0px;
+    
+}
+/* Catagorie css End Here */
+
+
+/* Latest Post Section CSS Start */
+.latest-post-section h3{
+    font-size: 22px;
+}
+.post-content h5{
+    font-size: 15px;
+   margin-top: -3px;
+   text-transform: uppercase;
+   margin-bottom: 0px;
+}
+.post-content span{
+    color: #999999; 
+    font-size: 12px;
+}
+/* Latest Post Section CSS End */
+
+/* Sidebar section Social Icon CSS Start */
+.sidebar-social-icon a{
+    margin: 0 28px;
+    color: #464646;
+}
+/* Sidebar section Social Icon CSS End */
+
+.slider-image img{
+    height: 360px;
+}
+
+/* Join US Section Start */
+.join-info a{
+    display: block;
+    background: #3C5A98;
+    color: #fff;
+    padding: 5px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+/* Join US Section CSS End */
+
+/* Footer Section CSS Start  */
+.footer-section h3{
+    font-size: 22px;
+}
+.about-blog p{
+  color: #ddd8d8;
+}
+.latest-tweet h5{
+    color: #ddd8d8;
+}
+.latest-tweet p{
+    color: #ddd8d8;
+}
+.latest-comment h5{
+    color: #ddd8d8;
+}
+.latest-comment p{
+    color: #ddd8d8;
+}
